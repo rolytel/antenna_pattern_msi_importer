@@ -4,6 +4,8 @@ Additionally, it is possible to define customized patterns using callable functi
 This repo allows to import radiation patterns from basic .msi files of antenna vendors. 
 The imported radiation patterns can be added to sionna as a customized radiation pattern.
 
+!3D Radiation Pattern
+
 The repository contains an example of .msi file and a jupyter notebook. The jupyter notebook is divided into four blocks:
 
 1. Required imports
