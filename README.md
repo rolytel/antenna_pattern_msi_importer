@@ -1,2 +1,16 @@
-# antenna_pattern_msi_importer
-This repo contains a jupyter notebook that allows to import radiation patterns from basic msi files of antenna vendors. The imported radiation patterns can be added to sionna as a customized radiation pattern
+# Importer of Antenna Pattern from basic MSI files
+Nowadays, SIONNA supports default radiation patterns such as: isotropic, short and half-wavelength dipoles, and TR38901 from 3GPP TR 38.901. 
+Additionally, it is possible to define customized patterns using callable functions.
+This repo allows to import radiation patterns from basic .msi files of antenna vendors. 
+The imported radiation patterns can be added to sionna as a customized radiation pattern.
+
+The repository contains an example of .msi file and a jupyter notebook. The jupyter notebook is divided into four blocks:
+
+1. Required imports
+2. Functions 
+3. Main/Execution
+4. Vizualization
+
+IMPORTANT: If the consider .msi file is different from the provided file, some modifications must be accordingly introduced.
+
+
