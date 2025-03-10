@@ -6,10 +6,10 @@ The imported radiation patterns can be added to sionna as a customized radiation
 
 The repository contains an example of .msi file and a jupyter notebook. The jupyter notebook is divided into four blocks:
 
-1- Required imports
-2- Functions 
-3- Main/Execution
-4- Vizualization
+1. Required imports
+2. Functions 
+3. Main/Execution
+4. Vizualization
 
 IMPORTANT: If the consider .msi file is different from the provided file, some modifications must be accordingly introduced.
 
